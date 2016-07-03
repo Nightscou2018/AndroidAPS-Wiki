@@ -109,3 +109,5 @@ public class BolusConstraint extends Fragment implements PluginBase, Constraints
 }
 ```
 we limit maximal bolus to 2U everywhere in app.
+
+`ConfigBuilder` always goes through all registered ConstraintInterfaces and select most restrictive value before passing command to selected pump driver.
