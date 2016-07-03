@@ -4,6 +4,7 @@
 * app where we can easy select what will be included in final apk just by easy change and compilation
 * app which support open and closed APS mode
 * app where you can see how APS works: input params, result and final decision
+* allow to add more APS algorithms and let user decide what to use
 * app independent to pump driver and containing "Virtual pump" to allow users safely play with APS
 * app with tight Nightscout integration
 * app where is possible easy to add/remove constraints for user safety
