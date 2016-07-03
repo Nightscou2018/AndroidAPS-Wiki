@@ -1,4 +1,4 @@
-# Primary goals that made this app to be born:
+# Primary goals that made this app to be born
 * modular app where is possible to easy add new modules without touching the rest of code
 * app that allow localization
 * app where we can easy select what will be included in final apk just by easy change and compilation
