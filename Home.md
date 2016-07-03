@@ -1,2 +1,4 @@
 # Welcome to the AndroidAPS wiki!
-[[/images/overview.png]]
+[[/images/overview.png|height=600px]]
+[[/images/careportal.png|height=600px]]
+[[/images/configbuilder.png|height=600px]]
