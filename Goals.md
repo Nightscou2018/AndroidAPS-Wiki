@@ -7,3 +7,4 @@
 * app independent to pump driver and containing "Virtual pump" to allow users safely play with APS
 * app with tight Nighscout integration
 * app where is possible easy to add/remove constraints for user safety
+* all-in-one app you need for managing T1D with APS and Nightscout
