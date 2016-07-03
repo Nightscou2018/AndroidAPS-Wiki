@@ -18,7 +18,7 @@ PumpEnactResult result = pump.deliverTreatment(insulin, carbs);
 
 `ConfigBuilder` itself acts as `PumpInterface` and `ConstraintInterface`. So when you call `MainApp.getConfigBuilder().getActivePump()` `ConfigBuilder` return itself. Then when you interact with pump `ConfigBuilder` verifies constraints first and then pass command to selected pump driver.
 
-This allow to add specific constraints to app without touching the rest of code. For example creating and registering this Fragment:
+This allows to add specific constraints to app without touching the rest of code. For example creating and registering this Fragment:
 ```
 public class BolusConstraint extends Fragment implements PluginBase, ConstraintsInterface {
     @Override
