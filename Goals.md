@@ -6,3 +6,4 @@
 * app where you can see how APS works: input params, result and final decision
 * app independent to pump driver and containing "Virtual pump" to allow users safely play with APS
 * app with tight Nighscout integration
+* app where is possible easy to add/remove constraints for user safety
