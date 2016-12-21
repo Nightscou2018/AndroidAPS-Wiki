@@ -4,7 +4,7 @@
 [[https://github.com/warstar2187/AndroidAPS/blob/master/xdrip1.png]]
 
 ## NSClient
-* Install NSClient from https://github.com/nightscout/NSClient-Android/releases . Minimal required version is 1.17
+* Install NSClient from https://github.com/nightscout/NSClient-Android/releases . Minimal required version is 1.20
 * In NSClient, select Menu by tapping the 3 dots in the top right. Select Preferences.
 * Enable Connect to Nightscout"
 * Enter "Nightscout URL" and "Nightscout API secret"
