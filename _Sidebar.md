@@ -1,0 +1,27 @@
+###  What is AndroidAPS?
+
+###  Primary goals that made this app to be born
+
+* modular app where is possible to easy add new modules without touching the rest of code
+* app that allow localization
+* app where we can easy select what will be included in final apk just by easy change and compilation
+* app which support open and closed APS mode
+* app where you can see how APS works: input params, result and final decision
+* allow to add more APS algorithms and let user decide what to use
+* app independent to pump driver and containing "Virtual pump" to allow users safely play with APS
+* app with tight Nightscout integration
+* app where is possible easy to add/remove constraints for user safety
+* all-in-one app you need for managing T1D with APS and Nightscout
+
+###  What you need to get started
+
+* Android Smartphone (5.0 or later)
+ * [NSClient](https://github.com/nightscout/NSClient-Android)
+ * [xDrip](http://stephenblackwasalreadytaken.github.io/xDrip/) or [xDrip+](https://github.com/jamorham/xDrip-plus)
+ * [AndroidAPS](https://github.com/MilosKozak/AndroidAPS)
+* [Nightscout](https://github.com/nightscout/cgm-remote-monitor) 0.9.0 or later
+* Dana-R Insulin Pump (unless you build your own driver for other insulin pump)
+* Continuous Glucose Monitor (CGM) data source
+ * Dexcom G4/G5 with xDrip/xDrip+
+ * Freestyle Libre Sensor with LimiTTer(Bridging Freestyle Libre Sensor to xDrip)
+
