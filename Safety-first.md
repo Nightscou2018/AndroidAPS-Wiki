@@ -4,7 +4,8 @@
 
 * AndroidAPS is a just a tool to help you manage diabetes. Not something you can install and forget!
 * Don't absolutely trust any device taking control of insulin delivery. Watch it all the time, learn how it works and learn how to predict it's actions.
-* Remember the phone paired with pump can do anything with the pump. So dedicate this phone for APS and communication with your child. Do not allow to install other apps !!! to prevent installing together some unwanted code like trojans, viruses or bots.
+* Remember the phone paired with pump can do anything with the pump. Dedicate this phone for APS and communication with your child. Do not allow to install other apps and games (!!!) to prevent installing together some unwanted code like trojans, viruses or bots.
+* Install all security updates provided by phone manufacter and Google.
 
 ## SMS Communicator
 
