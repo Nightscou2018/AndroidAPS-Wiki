@@ -20,4 +20,4 @@ Usage:
 Sources:
 * [[Mentions]]
 * [Facebook group](https://www.facebook.com/groups/1900195340201874/)
-* [AndroidAPS guide by Roumen Georgiev](https://lookaside.fbsbx.com/file/AndroidAPS-guide-EN-3.doc)
+* [AndroidAPS guide by Roumen Georgiev](https://www.facebook.com/groups/1900195340201874/files/)
