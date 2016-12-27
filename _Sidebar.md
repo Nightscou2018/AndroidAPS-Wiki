@@ -1,6 +1,7 @@
 Getting Started:
 * [[Home]]
 * [[Safety first]]
+* [[Screenshots]]
 * [[Architecture, security implementation]]
 
 How to install AndroidAPS:
