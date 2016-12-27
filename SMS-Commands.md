@@ -21,6 +21,7 @@
 
 ## BASAL 0.3
 - To start basal 0.3U/h reply with code Swe
+- Remote basal setting is not allowed _(if remote commands not allowed)_
 
 ## BOLUS 1.2
 - To deliver bolus 1.2U reply with code Rrt
