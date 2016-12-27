@@ -13,6 +13,9 @@ Configuration:
 * [[xDrip & NSClient]]
 * [[AndroidAPS]]
 
+Usage:
+* [[SMS Commands]]
+
 Sources:
 * [[Mentions]]
 * [Facebook group](https://www.facebook.com/groups/1900195340201874/)
