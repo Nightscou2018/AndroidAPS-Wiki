@@ -2,4 +2,4 @@
 
 * Turn on "8. Extended Bolus"
 
-[[https://github.com/warstar2187/AndroidAPS/blob/master/danar1.png]]
+[[https://github.com/MilosKozak/AndroidAPS/wiki/images/danar1.png]]
