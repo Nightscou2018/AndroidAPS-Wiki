@@ -9,6 +9,6 @@
  * `DEVICESTATUS_ADVANCED` = `true`
  * `PUMP_FIELDS` = `reservoir battery clock`
 
-[[https://github.com/warstar2187/AndroidAPS/blob/master/nightscout1.png]]
+[[https://github.com/MilosKozak/AndroidAPS/wiki/images/nightscout1.png]]
 
 * Click "Save" at the top of the panel.
