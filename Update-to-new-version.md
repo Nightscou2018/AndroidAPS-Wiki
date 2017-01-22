@@ -1,5 +1,6 @@
 # Selecting branch
 * If you want to change branch select another branch from tray: master (latest release) or dev (developement version)
+
 ![](images/branchintray.png)
 
 and then checkout
