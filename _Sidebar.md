@@ -7,6 +7,7 @@ Getting Started:
 How to install AndroidAPS:
 * [Installing Android Studio](https://developer.android.com/studio/install.html)
 * [[Building APK]]
+* [[Update to new version]]
 
 Configuration:
 * [[DanaR Insulin Pump]]
