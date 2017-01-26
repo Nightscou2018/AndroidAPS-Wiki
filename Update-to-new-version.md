@@ -1,3 +1,9 @@
+# Install git (if you don't have it)
+* Any git version should work. For example https://git-scm.com/download/win
+* Let Studio know where is git.exe located: File - Settings - Version Control - Git
+![](images/git.png)
+
+
 # Selecting branch
 * If you want to change branch select another branch from tray: master (latest release) or dev (developement version)
 
