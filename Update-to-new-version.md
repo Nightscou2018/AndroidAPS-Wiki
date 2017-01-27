@@ -3,10 +3,6 @@
 * Let Studio know where is git.exe located: File - Settings - Version Control - Git
 ![](images/git.png)
 
-# Fetch new versions from Github
-
-![](images/gitfetch.png)
-
 # Selecting branch
 * If you want to change branch select another branch from tray: master (latest release) or dev (developement version)
 
