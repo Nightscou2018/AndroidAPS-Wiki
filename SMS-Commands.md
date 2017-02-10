@@ -26,3 +26,7 @@
 ## BOLUS 1.2
 - To deliver bolus 1.2U reply with code Rrt
 - Remote bolus not allowed _(if within 15 min after last bolus command or remote commands not allowed)_
+
+## CAL 5.6
+- To send calibration 5.6 reply with code Rrt
+- Calibration sent _(if xDrip is installed. Accepting calibrations must be enabled in xDrip+)_
