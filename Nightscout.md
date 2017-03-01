@@ -8,6 +8,8 @@
  * `ENABLE` = `careportal boluscalc food bwp cage sage iage iob cob basal ar2 rawbg pushover bgi pump openaps`
  * `DEVICESTATUS_ADVANCED` = `true`
  * `PUMP_FIELDS` = `reservoir battery clock`
+ * `PUMP_WARN_BATT_P` = `51`
+ * `PUMP_URGENT_BATT_P` = `26`
 
 [[https://github.com/MilosKozak/AndroidAPS/wiki/images/nightscout1.png]]
 
