@@ -19,7 +19,7 @@
  * [NSClient](https://github.com/nightscout/NSClient-Android)
  * [xDrip](http://stephenblackwasalreadytaken.github.io/xDrip/) or [xDrip+](https://github.com/jamorham/xDrip-plus)
  * [AndroidAPS](https://github.com/MilosKozak/AndroidAPS)
-* [Nightscout](https://github.com/nightscout/cgm-remote-monitor) 0.9.0 or later
+* [Nightscout](https://github.com/nightscout/cgm-remote-monitor) 0.9.3 or later
 * Dana-R Insulin Pump (unless you build your own driver for other insulin pump)
 * Continuous Glucose Monitor (CGM) data source
  * Dexcom G4/G5 with xDrip/xDrip+
