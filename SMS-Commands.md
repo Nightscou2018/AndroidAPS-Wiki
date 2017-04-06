@@ -1,11 +1,22 @@
 ## BG
 - Last BG: 5.6 4min ago, Delta: -0,2 mmol, IOB: 0.20U (Bolus: 0.10U Basal: 0.10U)
 
-## LOOP STOP/START/STATUS
-- Loop has been enabled
+## LOOP STOP/DISABLE
 - Loop has been disabled
+
+## LOOP START/ENABLE
+- Loop has been enabled
+
+## LOOP STATUS
 - Loop is disabled
 - Loop is enabled
+- Suspended (10 min)
+
+## LOOP SUSPEND 20
+-  Loop suspended for 20 minutes
+
+## LOOP RESUME
+-  Loop resumed
 
 ## TREATMENTS REFRESH
 - TERATMENTS REFRESH 1 receivers
