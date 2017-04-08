@@ -1,7 +1,7 @@
 * In AndroidAPS, go to CONFIG BUILDER tap and enable DanaR in Pump field..
 * Select Menu by tapping the 3 dots in the top right. Select Preferences.
 * Select DanaR Bluetooth device, and click your DanaR serial number.
-* Select Pump password, and input your password. (Default passoword is 1234)
+* Select Pump password, and input your password. (Default password is 1234)
 * If you want AndroidAPS to allow basal rate above 200%, enable Use extended boluses for >200%.
 * Input your value for DanaR profile settings.
 [[https://github.com/MilosKozak/AndroidAPS/wiki/images/AndroidAPS1.png]]
