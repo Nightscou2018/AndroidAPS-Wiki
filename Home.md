@@ -16,7 +16,6 @@
 ###  What you need to get started
 
 * Android Smartphone (5.0 or later)
- * [NSClient](https://github.com/nightscout/NSClient-Android)
  * [xDrip](http://stephenblackwasalreadytaken.github.io/xDrip/) or [xDrip+](https://github.com/jamorham/xDrip-plus)
  * [AndroidAPS](https://github.com/MilosKozak/AndroidAPS)
 * [Nightscout](https://github.com/nightscout/cgm-remote-monitor) 0.9.3 or later
