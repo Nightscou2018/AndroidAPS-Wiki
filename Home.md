@@ -16,7 +16,7 @@
 ###  What you need to get started
 
 * Android Smartphone (5.0 or later)
- * [xDrip](http://stephenblackwasalreadytaken.github.io/xDrip/) or [xDrip+](https://github.com/jamorham/xDrip-plus)
+ * [xDrip](http://stephenblackwasalreadytaken.github.io/xDrip/) or [xDrip+](https://github.com/jamorham/xDrip-plus) or [600SeriesAndroidUploader](https://github.com/pazaan/600SeriesAndroidUploader)
  * [AndroidAPS](https://github.com/MilosKozak/AndroidAPS)
 * [Nightscout](https://github.com/nightscout/cgm-remote-monitor) 0.9.3 or later
 * Dana-R Insulin Pump (unless you build your own driver for other insulin pump)
