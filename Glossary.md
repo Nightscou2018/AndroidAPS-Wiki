@@ -6,6 +6,6 @@
 * BG=
 * IOB=
 * Corr=Correction
-* AMA=Anonces Meal Assistant
+* AMA=Annonced Meal Assistant
 * MA=Meal Assistant
 
