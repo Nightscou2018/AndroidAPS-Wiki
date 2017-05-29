@@ -3,6 +3,7 @@ Getting Started:
 * [[Safety first]]
 * [[Screenshots]]
 * [[Architecture, security implementation]]
+* [[Glossar]]
 
 How to install AndroidAPS:
 * [Installing Android Studio](https://developer.android.com/studio/install.html)
