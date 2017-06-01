@@ -6,9 +6,9 @@
 
 [[https://github.com/MilosKozak/AndroidAPS/wiki/images/androidstudio1.png]]
 
-* Select the build type you want to build. (If you want full option, then select 'fullWearcontrol-release')
+* Select the build type you want to build. There are different modular options for pump, phone and watch, for example to have just a display on the watch (wear) or to be able to bolus from the watch (wearcontrol).  If you want the full option, then select 'fullWearcontrol-release'
 
-* Go to Build Menu and click on Generate Signed APK.  For more information about using the keystore see [https://developer.android.com/studio/publish/app-signing.html#generate-key](https://developer.android.com/studio/publish/app-signing.html#generate-key)
+* Go to Build Menu and click on Generate Signed APK, select the same build type, and when asked select v1.  For more information about using the keystore see [https://developer.android.com/studio/publish/app-signing.html#generate-key](https://developer.android.com/studio/publish/app-signing.html#generate-key)
 
 * Please wait for some time until the APK is created. You will get the pop-up below when the process is done.
 
@@ -16,4 +16,4 @@
 
 * Click on 'Show in Explorer'. You'll find the APK is generated, sometimes it may take time to display.
 
-* Copy the APK to your android phone, and install it.
+* Copy the APK to your android phone, and install it.  If you have an older version of AndroidAPS on your phone then you will need to uninstall this first, remember to export your settings if so
