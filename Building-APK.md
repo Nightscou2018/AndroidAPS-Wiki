@@ -4,11 +4,22 @@
 
 * Click on BuildVariants button on the bottom left of the Android Studio, and notice that you have several kinds of build types.
 
-[[https://github.com/MilosKozak/AndroidAPS/wiki/images/androidstudio1.png]]
+
+[[https://github.com/gempickfordwaugh/AndroidAPS/raw/b09d7dc444f59b799888bcd596e36e1d562a9674/fullwearcontrolrelease.png]] 
 
 * Select the build type you want to build. There are different modular options for pump, phone and watch, for example to have just a display on the watch (wear) or to be able to bolus from the watch (wearcontrol).  If you want the full option, then select 'fullWearcontrol-release'
 
-* Go to Build Menu and click on Generate Signed APK, select the same build type, and when asked select v1.  For more information about using the keystore see [https://developer.android.com/studio/publish/app-signing.html#generate-key](https://developer.android.com/studio/publish/app-signing.html#generate-key)
+* Go to Build Menu and click on Generate Signed APK
+
+[[https://github.com/gempickfordwaugh/AndroidAPS/raw/b09d7dc444f59b799888bcd596e36e1d562a9674/generate%20signed%20APK.png]]
+
+* Set a keystore and password, if this is your first time then Create new, or fill in the details of your existing one.  For more information about using the keystore see [https://developer.android.com/studio/publish/app-signing.html#generate-key](https://developer.android.com/studio/publish/app-signing.html#generate-key)
+
+[[https://github.com/gempickfordwaugh/AndroidAPS/raw/b09d7dc444f59b799888bcd596e36e1d562a9674/generate%20signed%20APK.png]]
+
+*   Select the same build type as previous, select V1 (Jar Signature) and click Finish. 
+
+[[https://github.com/gempickfordwaugh/AndroidAPS/raw/b09d7dc444f59b799888bcd596e36e1d562a9674/generate%20signed%20APK%20select%20buildtype%20v1.png]]
 
 * Please wait for some time until the APK is created. You will get the pop-up below when the process is done.
 
@@ -16,4 +27,4 @@
 
 * Click on 'Show in Explorer'. You'll find the APK is generated, sometimes it may take time to display.
 
-* Copy the APK to your android phone, and install it.  If you have an older version of AndroidAPS on your phone then you will need to uninstall this first, remember to export your settings if so.
+* Copy the APK with the same finename as the buildtype you chose to your android phone, and install it.  If you have an older version of AndroidAPS on your phone then you will need to uninstall this first, remember to export your settings if so.
