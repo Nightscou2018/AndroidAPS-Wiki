@@ -16,4 +16,4 @@
 
 * Click on 'Show in Explorer'. You'll find the APK is generated, sometimes it may take time to display.
 
-* Copy the APK to your android phone, and install it.  If you have an older version of AndroidAPS on your phone then you will need to uninstall this first, remember to export your settings if so
+* Copy the APK to your android phone, and install it.  If you have an older version of AndroidAPS on your phone then you will need to uninstall this first, remember to export your settings if so.
