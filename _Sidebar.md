@@ -20,6 +20,7 @@ Usage:
 * [[Open APS features]]
 * [[Circadian Percentage Profile]]
 * [[SMS Commands]]
+* [[Tips and tricks]]
 
 Sources:
 * [[Mentions]]
