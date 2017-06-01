@@ -17,6 +17,8 @@ Configuration:
 * [[AndroidAPS]]
 
 Usage:
+* [[Open APS features]]
+* [[Circadian Percentage Profile]]
 * [[SMS Commands]]
 
 Sources:
