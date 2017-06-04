@@ -23,3 +23,4 @@
 * Continuous Glucose Monitor (CGM) data source
  * Dexcom G4/G5 with xDrip/xDrip+
  * Freestyle Libre Sensor with LimiTTer(Bridging Freestyle Libre Sensor to xDrip)
+ * Freestyle Libre Sensor with Sony Smartwatch 3 (Bridging Libre Sensor via SW3/LibreAlarm to xDrip+)
