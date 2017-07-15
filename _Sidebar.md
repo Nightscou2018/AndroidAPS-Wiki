@@ -24,8 +24,9 @@ Usage:
 
 Sources:
 * [[Mentions]]
+* [[Connect with other users]]
 * [Facebook group](https://www.facebook.com/groups/1900195340201874/)
-* [AndroidAPS guide by Roumen Georgiev](https://www.facebook.com/groups/1900195340201874/files/)
+* [AndroidAPS guide by Roumen Georgiev, in facebook group files](https://www.facebook.com/groups/1900195340201874/files/)
 
 CZ:
 * [[Instrukce v češtině]]
