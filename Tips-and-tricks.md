@@ -7,6 +7,8 @@ Looping can reduce the pump battery faster than normal use.  If you unexpectedly
 
 Within your Circadian Percentage Profile you have another chance to set your units to mg/dl or mmol/l separate to the preferences menu, don't forget to update this in both places! 
 
+If you plan to use the android wear app to bolus or change settings then you need to ensure notifications from AndroidAPS are not blocked. Confirmation of action comes via notification.
+
 If you don't want your preferences to be easily changed then you can password protect the preferences menu by selecting in the preferences menu "passwird for settings" and type the password you choose. The next time you go into preferences menu it will ask for that password before going any further. If you later want to remove the password option then go into "password for settings" and delete the text.
 
 
