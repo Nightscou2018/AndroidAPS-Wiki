@@ -12,3 +12,4 @@
 * Go to OVERVIEW tap and check if your BG value is read from xDrip.
 * Go to OBJECTIVES tap, and start to learn basic of OpenAPS by clearing objectives.
 [[https://github.com/MilosKozak/AndroidAPS/wiki/images/AndroidAPS3.png]]
+* Once you have been looping for 3 consecutive nights please fill [this form](http://bit.ly/nowlooping) in selecting Android APS as your type of DIY Loop Software.  Your information will not be shared in any way. You can indicate your preferred privacy levels in the form.
