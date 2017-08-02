@@ -26,7 +26,8 @@ If using Glimp...<br>
 * Select Glimp in ConfigBuilder.
 
 **For users of MM640g:**<br>
-<this information still needs adding><br>
+* Install and configuer the [600SeriesAndroidUploaer](http://pazaan.github.io/600SeriesAndroidUploader/)
+* Activate "Enable local broadcast of data" (same as sending to xDrip)
 * Select MM640g in ConfigBuilder.
 
 
