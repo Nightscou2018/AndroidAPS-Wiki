@@ -16,11 +16,9 @@
 ###  What you need to get started
 
 * Android Smartphone (5.0 or later)
- * [xDrip](http://stephenblackwasalreadytaken.github.io/xDrip/) or [xDrip+](https://github.com/jamorham/xDrip-plus) or [600SeriesAndroidUploader](https://github.com/pazaan/600SeriesAndroidUploader)
- * [AndroidAPS](https://github.com/MilosKozak/AndroidAPS)
+  * [xDrip](http://stephenblackwasalreadytaken.github.io/xDrip/)/[xDrip+](https://github.com/jamorham/xDrip-plus) or [Glimp](http://www.nightscout.info/wiki/welcome/nightscout-for-libre) or [600SeriesAndroidUploader](https://github.com/pazaan/600SeriesAndroidUploader)
+  * [AndroidAPS](https://github.com/MilosKozak/AndroidAPS)
 * [Nightscout](https://github.com/nightscout/cgm-remote-monitor) 0.10.0 or later
 * Dana-R Insulin Pump (unless you build your own driver for other insulin pump)
 * Continuous Glucose Monitor (CGM) data source
- * Dexcom G4/G5 with xDrip/xDrip+
- * Freestyle Libre Sensor with LimiTTer(Bridging Freestyle Libre Sensor to xDrip)
- * Freestyle Libre Sensor with Sony Smartwatch 3 (Bridging Libre Sensor via SW3/LibreAlarm to xDrip+)
+  * Dexcom G4/G5 or Freestyle Libre or Medtronic Guardian
