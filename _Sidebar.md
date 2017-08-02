@@ -13,7 +13,7 @@ How to install AndroidAPS:
 Configuration:
 * [[DanaR Insulin Pump]]
 * [[Nightscout]]
-* [[xDrip & NSClient]]
+* [[BG Source]]
 * [[AndroidAPS]]
 
 Usage:
