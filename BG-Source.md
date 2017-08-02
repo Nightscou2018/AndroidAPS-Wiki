@@ -13,17 +13,17 @@ _If using OTG cable ('traditional' Nightscout)…_<br>
 
 
 _**For users of Libre:**_<br>
-If using Glimp...<br>
-* If not already set up then download Glimp and follow instructions on nightscout (http://www.nightscout.info/wiki/welcome/nightscout-for-libre).
-* Select Glimp in ConfigBuilder.
 
 _If using xdrip..._<br>
-* If not already set up then download xdrip and follow instructions on [LimiTTEer](https://github.com/JoernL/LimiTTer) or [Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki).
+* If not already set up then download xdrip and follow instructions on [LimiTTEer](https://github.com/JoernL/LimiTTer),  [Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki) or for the [BlueReader (Hardware)](https://bluetoolz.de/wordpress/) here: [BlueReader with xDrip](https://unendlichkeit.net/wordpress/?p=680&lang=en).
 * In xdrip go to Settings > Interapp Compatibility > Broadcast Data Locally and select ON.
 * In xdrip go to Settings > Interapp Compatibility > Accept Treatments and select OFF.
 * If you want to be able to use AndroidAPS to calibrate then in xdrip go to Settings > Interapp Compatibility > Accept Calibrations and select ON.  You may also want to review the options in Settings > Less Common Settings > Advanced Calibration Settings.
 * Select xdrip in ConfigBuilder.
 
+If using Glimp...<br>
+* If not already set up then download Glimp and follow instructions on nightscout (http://www.nightscout.info/wiki/welcome/nightscout-for-libre).
+* Select Glimp in ConfigBuilder.
 
 **For users of MM640g:**<br>
 <this information still needs adding><br>
