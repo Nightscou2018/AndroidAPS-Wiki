@@ -1,21 +1,36 @@
-**For Dexcom CGM:**<br>
-In AndroidAPS's config select 'xdrip' as the BG Source.
+**For users of Dexcom:**<Br>
+_If using xdrip…_<br>
+* If not already set up then download [xdrip](https://github.com/NightscoutFoundation/xDrip) and follow instructions on nightscout ([G4 without share](http://www.nightscout.info/wiki/welcome/nightscout-with-xdrip-wireless-bridge), [G4 share](http://www.nightscout.info/wiki/welcome/nightscout-with-xdrip-and-dexcom-share-wireless), [G5](http://www.nightscout.info/wiki/welcome/nightscout-with-xdrip-and-dexcom-share-wireless/xdrip-with-g5-support)).
+* In xdrip go to Settings > Interapp Compatibility > Broadcast Data Locally and select ON.
+* In xdrip go to Settings > Interapp Compatibility > Accept Treatments and select OFF.
+* If you want to be able to use AndroidAPS to calibrate then in xdrip go to Settings > Interapp Compatibility > Accept Calibrations and select ON.  You may also want to review the options in Settings > Less Common Settings > Advanced Calibration Settings.
+* Select xdrip in ConfigBuilder.
 
-In xdrip go to Settings > Inter-app settings and turn "Broadcast Locally' to ON. Also turn 'Accept treatments' to OFF.
+_If using OTG cable ('traditional' Nightscout)…_<br>
+* If not already set up then download Nightscout Uploader app from the Play Store and follow instructions on [Nightscout](http://www.nightscout.info/wiki/welcome/basic-requirements).
+* In AndroidAPS Preferences enter your nightscout website and API secret.
+* Select NSClient in ConfigBuilder.
 
-![xdrip screenshot](https://photos.google.com/photo/AF1QipPifxUsV7ugNSmmM_h0tVLyY4o9gNW4jImwe5jH)
 
-**For Medtronic CGM**<br>
-In AndroidAPS's config select 'MM640g' as the BG Source.
+_**For users of Libre:**_<br>
+If using Glimp...<br>
+* If not already set up then download Glimp and follow instructions on nightscout (http://www.nightscout.info/wiki/welcome/nightscout-for-libre).
+* Select Glimp in ConfigBuilder.
 
-**For Libre FGM:**<br>
-_if using glimp_<br>
-In AndroidAPS's config select 'Glimp' as the BG Source.
+_If using xdrip..._<br>
+* If not already set up then download xdrip and follow instructions on [LimiTTEer](https://github.com/JoernL/LimiTTer) or [Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki).
+* In xdrip go to Settings > Interapp Compatibility > Broadcast Data Locally and select ON.
+* In xdrip go to Settings > Interapp Compatibility > Accept Treatments and select OFF.
+* If you want to be able to use AndroidAPS to calibrate then in xdrip go to Settings > Interapp Compatibility > Accept Calibrations and select ON.  You may also want to review the options in Settings > Less Common Settings > Advanced Calibration Settings.
+* Select xdrip in ConfigBuilder.
 
-_if using xdrip_<br>
-In AndroidAPS's config select 'xdrip' as the BG Source.
 
-In xdrip go to Settings > Inter-app settings and turn "Broadcast Locally' to ON. Also turn 'Accept treatments' to OFF.
+**For users of MM640g:**<br>
+<this information still needs adding><br>
+* Select MM640g in ConfigBuilder.
 
-**For other CGM sources that upload to Nightscout**<br>
-In AndroidAPS's config select 'NS Client' as the BG Source.
+
+**For users of other CGM uploaded to nightscout:**<br>
+If you have any other CGM set up that sends your data to [Nightscout](http://www.nightscout.info) then<br>
+* In AndroidAPS Preferences enter your nightscout website and API secret.
+* Select NSClient in ConfigBuilder.
