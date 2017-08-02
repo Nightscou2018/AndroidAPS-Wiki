@@ -25,7 +25,7 @@ If using Glimp...<br>
 * If not already set up then download Glimp and follow instructions on nightscout (http://www.nightscout.info/wiki/welcome/nightscout-for-libre).
 * Select Glimp in ConfigBuilder.
 
-**For users of MM640g:**<br>
+**For users of MM640g or MM630g:**<br>
 * Install and configuer the [600SeriesAndroidUploaer](http://pazaan.github.io/600SeriesAndroidUploader/)
 * Activate "Enable local broadcast of data" (same as sending to xDrip)
 * Select MM640g in ConfigBuilder.
