@@ -22,7 +22,7 @@ _If using xdrip..._<br>
 * Select xdrip in ConfigBuilder.
 
 _If using Glimp..._<br>
-* If not already set up then download Glimp and follow instructions on [nightscout] (http://www.nightscout.info/wiki/welcome/nightscout-for-libre).
+* If not already set up then download Glimp and follow instructions on [nightscout](http://www.nightscout.info/wiki/welcome/nightscout-for-libre).
 * Select Glimp in ConfigBuilder.
 
 **For users of MM640g or MM630g:**<br>
