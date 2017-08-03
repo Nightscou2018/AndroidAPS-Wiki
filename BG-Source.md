@@ -12,22 +12,22 @@ _If using OTG cable ('traditional' Nightscout)…_<br>
 * Select NSClient in ConfigBuilder.
 
 
-_**For users of Libre:**_<br>
+**For users of Libre:**<br>
 
 _If using xdrip..._<br>
-* If not already set up then download xdrip and follow instructions on [LimiTTEer](https://github.com/JoernL/LimiTTer),  [Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki) or for the [BlueReader (Hardware)](https://bluetoolz.de/wordpress/) here: [BlueReader with xDrip](https://unendlichkeit.net/wordpress/?p=680&lang=en).
+* If not already set up then download xdrip and follow instructions on [LimiTTEer](https://github.com/JoernL/LimiTTer),  [Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki) or [BlueReader](https://unendlichkeit.net/wordpress/?p=680&lang=en)([Hardware](https://bluetoolz.de/wordpress/)).
 * In xdrip go to Settings > Interapp Compatibility > Broadcast Data Locally and select ON.
 * In xdrip go to Settings > Interapp Compatibility > Accept Treatments and select OFF.
 * If you want to be able to use AndroidAPS to calibrate then in xdrip go to Settings > Interapp Compatibility > Accept Calibrations and select ON.  You may also want to review the options in Settings > Less Common Settings > Advanced Calibration Settings.
 * Select xdrip in ConfigBuilder.
 
-If using Glimp...<br>
-* If not already set up then download Glimp and follow instructions on nightscout (http://www.nightscout.info/wiki/welcome/nightscout-for-libre).
+_If using Glimp..._<br>
+* If not already set up then download Glimp and follow instructions on [nightscout] (http://www.nightscout.info/wiki/welcome/nightscout-for-libre).
 * Select Glimp in ConfigBuilder.
 
 **For users of MM640g or MM630g:**<br>
-* Install and configuer the [600SeriesAndroidUploaer](http://pazaan.github.io/600SeriesAndroidUploader/)
-* Activate "Enable local broadcast of data" (same as sending to xDrip)
+* If not already set up then download [600SeriesAndroidUploaer](http://pazaan.github.io/600SeriesAndroidUploader/) and follow instructions on [nightscout](http://www.nightscout.info/wiki/welcome/nightscout-and-medtronic-640g).
+* In 600 Series Uploader go to Settings > Send to xdrip+ and select ON (tick).
 * Select MM640g in ConfigBuilder.
 
 
