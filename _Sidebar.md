@@ -15,6 +15,7 @@ Configuration:
 * [[Nightscout]]
 * [[BG Source]]
 * [[AndroidAPS]]
+* [[Watchfaces]]
 
 Usage:
 * [[Open APS features]]
