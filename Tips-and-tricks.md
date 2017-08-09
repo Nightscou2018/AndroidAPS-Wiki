@@ -16,5 +16,9 @@
 
 * Within your Circadian Percentage Profile you have another chance to set your units to mg/dl or mmol/l separate to the preferences menu, don't forget to update this in both places! 
 
+* There are several blogs with good tips to help you understand the practicalities of looping:
+  * [Why DIA matters](http://seemycgm.com/2017/08/09/why-dia-matters/)
+  * [Limiting meal spikes](https://diyps.org/2016/07/11/picture-this-how-to-do-eating-soon-mode/)
+  * [Hormones and autosens](http://seemycgm.com/2017/06/06/hormones-2/)
 
 Other tips and tricks can be found in the [Facebook group](https://www.facebook.com/groups/1900195340201874/)
