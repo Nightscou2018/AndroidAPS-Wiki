@@ -7,7 +7,18 @@
 
 [[https://github.com/gempickfordwaugh/AndroidAPS/raw/b09d7dc444f59b799888bcd596e36e1d562a9674/fullwearcontrolrelease.png]] 
 
-* Select the build type you want to build. There are different modular options for pump, phone and watch, for example to have just a display on the watch (wear) or to be able to bolus from the watch (wearcontrol).  If you want the full option, then select 'fullWearcontrol-release'
+* Select the build type you want to build. There are different modular options, the different parts of the name are described below to help you choose, we recommend *bold* for default AndroidAPS app (**fullWearcontrolRelease**) or _italic_ for parents monitoring looping (_nsclientwearrelease_).
+    * **full - full app**
+    * _nsclient - downloads treatments from NS and uploads care portal entries (no looping, just monitors looping from elsewhere)_
+    * openloop - just the OpenAPS part of the app (no pump driver)
+    * pumpcontrol - just the DanaR remote control part of the app (no looping function, just for bolusing)<br><br>
+
+    * Nowear - just phone app, doesn't include watch app
+    * _Wear - includes android wear watch app for viewing_
+    * **Wearcontrol - includes android wear watch app for controlling pump (e.g. temp targets and bolusing)**<br><br>
+
+    * _**Release - should be the default choice**_
+    * Debug - just for people coding
 
 * Go to Build Menu and click on Generate Signed APK
 
