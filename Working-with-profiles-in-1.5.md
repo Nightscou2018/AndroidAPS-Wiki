@@ -11,3 +11,5 @@ If you use "Profile switch" with duration profile is switched back to previous v
 If you use local AAPS profiles (CPP, Simple, Local) you have to press button there to apply these changes (it creates proper "Profile switch" event).
 
 This mechanism allows much precise calculations to the past and track profile changes.
+
+In closed loop mode is recommended to turn on automatic update of profile in pump (in settings).
