@@ -23,6 +23,7 @@ Usage:
 * [[Working with profiles in 1.5+|Working with profiles in 1.5]]
 * [[SMS Commands]]
 * [[Tips and tricks]]
+* [[Accessing logfiles]]
 
 Sources:
 * [[Mentions]]
