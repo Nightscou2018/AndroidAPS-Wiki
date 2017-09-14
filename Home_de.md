@@ -1,7 +1,6 @@
 # **Was ist AndroidAPS?**
 ## **Die Ziele, die zur Entstehung führten**   
 •	App mit „modularer Basis“, es soll leicht sein neue Module hinzuzufügen   
-•	?App that allows localization?  
 •	Eine App bei der es bei der Erstellung möglich ist, welche Funktionen die App später hat (Wear Control, NsClient)  
 •	Eine App die es ermöglicht einen open, oder closed Loop Modus zu wählen  
 •	Eine App die, die Funktionen eines APS visualisiert (Parameter, Ergebnis und Umsetzung)  
