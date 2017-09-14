@@ -41,6 +41,7 @@ DE:
     * [[Screenshots]]
     * [Glossar_de](https://github.com/MilosKozak/AndroidAPS/wiki/Glossar_de)
 * AndroidAPS installieren
+    * [Android Studio installieren](https://developer.android.com/studio/install.html)
     * [APK erstellen_de](https://github.com/MilosKozak/AndroidAPS/wiki/APK-erstellen_de)
     * [Update auf neue Version_de](https://github.com/MilosKozak/AndroidAPS/wiki/Update-auf-neue-Version_de)
 * Einstellungen
