@@ -33,3 +33,26 @@ Sources:
 
 CZ:
 * [[Instrukce v češtině]]
+
+DE:
+* Zum Starten
+    * [Home_de](https://github.com/MilosKozak/AndroidAPS/wiki/Home_de)
+    * [Sicherheit_de](https://github.com/MilosKozak/AndroidAPS/wiki/Sicherheit_de)
+    * [[Screenshots]]
+    * [Glossar_de](https://github.com/MilosKozak/AndroidAPS/wiki/Glossar_de)
+* AndroidAPS installieren
+    * [APK erstellen_de](https://github.com/MilosKozak/AndroidAPS/wiki/APK-erstellen_de)
+    * [Update auf neue Version_de](https://github.com/MilosKozak/AndroidAPS/wiki/Update-auf-neue-Version_de)
+* Einstellungen
+    * [DanaR Insulinpumpe_de](https://github.com/MilosKozak/AndroidAPS/wiki/DanaR-Insulinpumpe_de)
+    * [Nightscout_de](https://github.com/MilosKozak/AndroidAPS/wiki/Nightscout_de)
+    * [Blutzucker Quelle_de](https://github.com/MilosKozak/AndroidAPS/wiki/Blutzucker-Quelle_de)
+    * [AndroidAPS_de](https://github.com/MilosKozak/AndroidAPS/wiki/AndroidAPS_de)
+    * [Smartwatch Visualisierung_de](https://github.com/MilosKozak/AndroidAPS/wiki/Smartwatch-Visualisierung_de)
+* Benutzung
+     * [OpenAPS Funktionen_de](https://github.com/MilosKozak/AndroidAPS/wiki/OpenAPS-Funktionen_de)
+    * [Circadian Percentage Profil_de](https://github.com/MilosKozak/AndroidAPS/wiki/Circadian-Percentage-Profil_de)
+    * [Profilfunktion ab Version 1.5_de](https://github.com/MilosKozak/AndroidAPS/wiki/Profilfunktion-ab-Version-1.5_de)   
+    * [[SMS Commands]]
+    * [Tipps und Tricks_de](https://github.com/MilosKozak/AndroidAPS/wiki/Tipps-und-Tricks_de)
+    * [Logfiles erhalten_de](https://github.com/MilosKozak/AndroidAPS/wiki/Logfiles-erhalten_de)
