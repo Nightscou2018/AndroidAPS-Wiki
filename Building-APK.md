@@ -36,4 +36,4 @@
 
 * Click on 'Show in Explorer'. You'll find the APK is generated, sometimes it may take time to display.
 
-* Copy the APK with the same finename as the buildtype you chose to your android phone, and install it.  If you have an older version of AndroidAPS on your phone then you will need to uninstall this first, remember to export your settings if so.
+* Copy the APK with the same finename as the buildtype you chose to your android phone, and install it.  If the apk does not install and you have an older version of AndroidAPS on your phone that was signed with a different key then you will need to uninstall this first, remember to export your settings if so.
