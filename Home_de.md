@@ -15,4 +15,4 @@
     * AndroidAPS  
 * Nightscout 0.10.0, oder aktueller    
 * Dana R Insulinpumpe (in Zukunft, auch die Accu Chek Combo, oder du erstellst einen eigenen Treiber für eine andere Insulinpumpe)  
-* Ein CGM (Dexcom G4/G5, Freestyle Libre, oder Medtronic Guardian)  
+* Ein CGM (Dexcom G4/G5, Freestyle Libre, Eversense, oder Medtronic Guardian).
