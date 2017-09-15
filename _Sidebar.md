@@ -59,4 +59,5 @@ DE:
     * [Logfiles erhalten_de](https://github.com/MilosKozak/AndroidAPS/wiki/Logfiles-erhalten_de)
 
 BG:
-* [[Инструкция на български]]
+* [[Начало]]
+* [[Безопасност]]
