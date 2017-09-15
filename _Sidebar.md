@@ -37,7 +37,7 @@ CZ:
 DE:
 * Zum Starten
     * [Home_de](https://github.com/MilosKozak/AndroidAPS/wiki/Home_de)
-    * [Sicherheit_de](https://github.com/MilosKozak/AndroidAPS/wiki/Sicherheit_de)
+    * [Sicherheit Geht Vor](https://github.com/MilosKozak/AndroidAPS/wiki/Sicherheit_Geht_Vor_de)
     * [[Screenshots]]
     * [Glossar_de](https://github.com/MilosKozak/AndroidAPS/wiki/Glossar_de)
 * AndroidAPS installieren
