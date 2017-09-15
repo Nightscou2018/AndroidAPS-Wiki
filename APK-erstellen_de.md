@@ -36,4 +36,4 @@
 
 * Klicke auf 'Show in Explorer'. Hier findest du die APK, manchmal kann es ein bisschen dauern bis sie angezeigt wird.
 
-* Kopiere die APK mit dem selben Namen, wie den des Build Types auf dein Handy und installiere sie. Falls du eine ältere Version von AndroidAPS installiert hast, solltest du diese zuerst (DAVOR EINSTELLUNGEN UNBEDINGT SICHERN -> export settings) deinstallieren.
+* Kopiere die APK mit dem selben Namen, wie den des Build Types auf dein Handy und installiere sie. Falls AndroidAPS sich nicht installieren lässt und du eine ältere Version installiert hast, die mit einem anderen Schlüssel signiert wurde, solltest du diese zuerst (DAVOR EINSTELLUNGEN UNBEDINGT SICHERN -> export settings) deinstallieren.
