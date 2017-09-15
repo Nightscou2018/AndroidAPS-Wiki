@@ -21,4 +21,4 @@
 * [Nightscout](https://github.com/nightscout/cgm-remote-monitor) 0.10.0 or later
 * Dana-R Insulin Pump (unless you build your own driver for other insulin pump)
 * Continuous Glucose Monitor (CGM) data source
-  * Dexcom G4/G5 or Freestyle Libre or Medtronic Guardian
+  * Dexcom G4/G5 or Freestyle Libre or Eversense or Medtronic Guardian
