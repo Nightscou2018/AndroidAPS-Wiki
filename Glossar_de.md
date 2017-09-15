@@ -2,4 +2,4 @@ Für das meiste "Looper Vokabular" gehe zu: https://openaps.readthedocs.io/en/la
 
 Einige AndroidAPS spezifische Bezeichnungen:
 
-[[Circadian Percentage Profile]] - ändert dein Basisprofil anhand der eingestellten Zeit, oder prozentual.
+[[Circadian Percentage Profile_de]] - ändert dein Basisprofil anhand der eingestellten Zeit, oder prozentual.
