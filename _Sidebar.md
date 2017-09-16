@@ -59,7 +59,8 @@ DE:
     * [Tipps und Tricks_de](https://github.com/MilosKozak/AndroidAPS/wiki/Tipps-und-Tricks_de)
     * [Logfiles erhalten_de](https://github.com/MilosKozak/AndroidAPS/wiki/Logfiles-erhalten_de)
 
-BG:
+Български:
+
 * [[Начало]]
 * [[Безопасност]]
 * [[Скрийншоти]]
