@@ -67,7 +67,7 @@ DE:
 * [[Архитектура, security implementation]]
 * [[Терминология]]
 
-Как да инсталираме AndroidAPS:
+Инсталиране:
 * [Инсталиране на Android Studio](https://developer.android.com/studio/install.html)
 * [[Създаване на APK]]
 * [[Обновяване до последна версия]]
