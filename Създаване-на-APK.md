@@ -22,15 +22,15 @@
 
 * От Build Menu кликнете върху Generate Signed APK
 
-* Задайте клавиатура и парола, ако това е вашето първо време, след това Създайте ново или попълнете детайлите на съществуващата. За повече информация относно използването на ключовата касета вижте [https://developer.android.com/studio/publish/app-signing.html#generate-key](https://developer.android.com/studio/publish/app- signing.html # генерира ключ)
+* Задайте keystore и парола, ако това ви е за пръв път изберете Create new и попълнете детайлите. За повече информация относно използването на keystore вижте [https://developer.android.com/studio/publish/app-signing.html#generate-key](https://developer.android.com/studio/publish/app-signing.html#generate-key)
 
 [[https://github.com/gempickfordwaugh/AndroidAPS/raw/b09d7dc444f59b799888bcd596e36e1d562a9674/generate%20signed%20APK.png]]
 
-* Изберете същия тип за създаване, както преди, изберете V1 (Подпис на съда) и кликнете върху Finish.
+* Изберете същия тип за създаване, както преди, изберете V1 (Jar Signature) и кликнете върху Finish.
 
 [[https://github.com/gempickfordwaugh/AndroidAPS/raw/b09d7dc444f59b799888bcd596e36e1d562a9674/generate%20signed%20APK%20select%20buildtype%20v1.png]]
 
-* Моля, изчакайте известно време, докато се създаде APK. Ще получите изскачащ прозорец, когато процесът е приключил.
+* Моля, изчакайте известно време, докато се създаде APK. Ще се появи изскачащ прозорец, когато процесът е приключил.
 
 [[https://github.com/MilosKozak/AndroidAPS/wiki/images/androidstudio3.png]]
 
