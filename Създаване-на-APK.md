@@ -1,39 +1,39 @@
-* Изтегляте [AndroidAPS repository](https://github.com/MilosKozak/AndroidAPS) и разархивирате фалйвете.
+* Изтеглете [архив на AndroidAPS] (https://github.com/MilosKozak/AndroidAPS) и разархивирайте файловете.
 
-* Стартирате Android Studio и чрез 'Open an existing Android Studio project', избирате мястото, където са разархивирани файловете.
+* Стартирайте Android Studio и изберете 'Open an existing Android Studio project', като изберете местоположението на разархивираните файлове.
 
-* От BuildVariants долу в ляво на Android Studio чрез BuildVariant ще видите списък с различни варианти на приложението.
+* Щракнете върху бутона BuildVariants в долния ляв ъгъл на Android Studio и ще видите, че имате няколко различни варианта.
 
 
 [[https://github.com/gempickfordwaugh/AndroidAPS/raw/b09d7dc444f59b799888bcd596e36e1d562a9674/fullwearcontrolrelease.png]] 
 
-* Избирате типа, който искате да създадете. There are different modular options, the different parts of the name are described below to help you choose, we recommend **bold** for default AndroidAPS app (**fullWearcontrolRelease**) or _italic_ for parents monitoring looping (_nsclientWearRelease_).
-    * **full - full app**
-    * _nsclient - downloads treatments from NS and uploads care portal entries (no looping, just monitors looping from elsewhere)_
-    * openloop - just the OpenAPS part of the app (no pump driver)
-    * pumpcontrol - just the DanaR remote control part of the app (no looping function, just for bolusing)<br><br>
+* Изберете типа на приложението, който искате да създадете. Има различни модулни опции,  като различните части на името са описани по-долу, за да ви помогнем да избирате, препоръчваме за AndroidAPS по подразбиране вариант fullWearcontrolRelease, а за родители за дистанционно следене на програмата варианта nsclientWearRelease.
+    * full - цялото приложение
+    * _nsclient - за изтегляне на събития от NS и вписвания на лечения в Careportal (без APS, просто за отдалечено наблюдение)
+    * openloop - само частта OpenAPS на приложението (без драйвер на помпата)
+    * pumpcontrol - само  контрол на помпа DanaR дистанционното от приложението (без loop функция, но с възможност за болус) <br> <br>
 
-    * Nowear - just phone app, doesn't include watch app
-    * _Wear - includes android wear watch app for viewing_
-    * **Wearcontrol - includes android wear watch app for controlling pump (e.g. temp targets and bolusing)**<br><br>
+    * Nowear - само приложение за телефон, не включва приложение за часовник Android Wear
+    * _Wear - включва приложение за Android wear
+    * ** Wearcontrol - включва приложение за Android wear за контролиране на помпата (например временни цели и болуси) ** <br> <br>
 
-    * _**Release - should be the default choice**_
-    * Debug - just for people coding
+    * _ ** Release - това трябва да бъде стандартният избор ** _
+    * Debug - само за хора, които биха работили върху кода на приложението
 
-* Go to Build Menu and click on Generate Signed APK
+* От Build Menu кликнете върху Generate Signed APK
 
-* Set a keystore and password, if this is your first time then Create new, or fill in the details of your existing one.  For more information about using the keystore see [https://developer.android.com/studio/publish/app-signing.html#generate-key](https://developer.android.com/studio/publish/app-signing.html#generate-key)
+* Задайте клавиатура и парола, ако това е вашето първо време, след това Създайте ново или попълнете детайлите на съществуващата. За повече информация относно използването на ключовата касета вижте [https://developer.android.com/studio/publish/app-signing.html#generate-key](https://developer.android.com/studio/publish/app- signing.html # генерира ключ)
 
 [[https://github.com/gempickfordwaugh/AndroidAPS/raw/b09d7dc444f59b799888bcd596e36e1d562a9674/generate%20signed%20APK.png]]
 
-*   Select the same build type as previous, select V1 (Jar Signature) and click Finish. 
+* Изберете същия тип за създаване, както преди, изберете V1 (Подпис на съда) и кликнете върху Finish.
 
 [[https://github.com/gempickfordwaugh/AndroidAPS/raw/b09d7dc444f59b799888bcd596e36e1d562a9674/generate%20signed%20APK%20select%20buildtype%20v1.png]]
 
-* Please wait for some time until the APK is created. You will get the pop-up below when the process is done.
+* Моля, изчакайте известно време, докато се създаде APK. Ще получите изскачащ прозорец, когато процесът е приключил.
 
 [[https://github.com/MilosKozak/AndroidAPS/wiki/images/androidstudio3.png]]
 
-* Click on 'Show in Explorer'. You'll find the APK is generated, sometimes it may take time to display.
+* Кликнете върху "Show in Explorer". Ще видите генерираният APK файл. Понякога може да отнеме известно време за показването му.
 
-* Copy the APK with the same finename as the buildtype you chose to your android phone, and install it.  If the apk does not install and you have an older version of AndroidAPS on your phone that was signed with a different key then you will need to uninstall this first, remember to export your settings if so.
+* Копирайте APK файла със същото име като типа buildtype, който сте избрали на вашия Android телефон и го инсталирайте. Ако apk не инсталира и имате по-стара версия на AndroidAPS на телефона си, който е бил подписан с друг ключ, първо ще трябва да го деинсталирате, не забравяйте да експортирате настройките си, ако това се налага.
