@@ -1,4 +1,4 @@
-* Изтеглете [архив на AndroidAPS] (https://github.com/MilosKozak/AndroidAPS) и разархивирайте файловете.
+* Изтеглете [AndroidAPS архив](https://github.com/MilosKozak/AndroidAPS) и разархивирайте файловете.
 
 * Стартирайте Android Studio и изберете 'Open an existing Android Studio project', като изберете местоположението на разархивираните файлове.
 
