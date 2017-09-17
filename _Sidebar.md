@@ -76,10 +76,10 @@ DE:
 
 Конфигуриране:
 * [[DanaR инсулинова помпа]]
-* [[Nightscout]]
+* [[Найтскаут (Nightscout)]]
 * [[Източник на данни за КЗ]]
-* [[AndroidAPS]]
-* [[Watchfaces]]
+* [[АndroidAPS]]
+* [[Wаtchfaces]]
 
 Използване:
 * [[Open APS функции]]
