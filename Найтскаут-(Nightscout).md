@@ -16,4 +16,4 @@
 
 [[https://github.com/MilosKozak/AndroidAPS/wiki/images/nightscout1.png]]
 
-* Натиснете "Save" в долния край на панела.
+* Натиснете "Save" в долния край на панела за да запазите направените промени.
