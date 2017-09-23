@@ -12,4 +12,4 @@ Enabling this setting is useful when you are using data from unfiltered sources 
 
 Users of Abbot Freestyle Libre sensors collecting their glucose data via devices such as LimiTTers may find this setting provides better results with AAPS.
 
-For further tips regarding data smoothing when using xDrip+ as the data source, see this page.
+For further tips regarding data smoothing when using xDrip+ as the data source, see [Smoothing Blood Glucose Data in xDrip+](https://github.com/MilosKozak/AndroidAPS/wiki/Smoothing-blood-glucose-data-in-xDrip).
