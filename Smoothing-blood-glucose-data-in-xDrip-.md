@@ -1,0 +1,2 @@
+AAPS works best when the blood glucose data it receives is smooth and consistent. When using xDrip+ as your data source there are a couple of things you can do to help reduce noise in the data.
+# Smooth Sensor Noise
