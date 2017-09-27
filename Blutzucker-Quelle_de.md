@@ -20,7 +20,7 @@ _Mit xdrip..._<br>
 • [Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki) <br> 
 • [BlueReader](https://unendlichkeit.net/wordpress/?p=680&lang=en)([Hardware](https://bluetoolz.de/wordpress/)).
 * In xdrip gehe zu Einstellungen > Inter-App Einstellungen > Lokaler Broadcast und wähle AN.
-* In xdrip gehe zu Einstellungen > Inter-App Einstellungen > Behandlungen annehmen und wähle OFF.
+* In xdrip gehe zu Einstellungen > Inter-App Einstellungen > Behandlungen annehmen und wähle AUS.
 * Falls du mit AndroidAPS kalibrieren willst dann gehe in xdrip zu Einstellungen > Inter-App Einstellungen > Accept Calibrations und wähle AN. Du solltest auch die Optionen in Einstellungen > Erweiterte Einstellungen > Erweiterte Kalibrierung kontrollieren.
 * Wähle in AndroidAPS > CONFIG BUILDER > xdrip.
 
