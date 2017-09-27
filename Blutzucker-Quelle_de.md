@@ -12,7 +12,7 @@ _Mit OTG cable ('traditional' Nightscout)…_<br>
 * Wähle im CONFIG BUILDER > PROFIL > NS Profil (AndroidAPS).
 
 
-**Für Libre Nutzer:**<br>
+**Für FreeStyle Libre Nutzer:**<br>
 
 _Mit xdrip..._<br>
 * Falls noch nicht eingerichtet, dann downloade xdrip und folge der Anleitung auf: 
