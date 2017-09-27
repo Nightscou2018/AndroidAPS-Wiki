@@ -8,18 +8,21 @@ _Mit xdrip…_<br>
 
 _Mit OTG cable ('traditional' Nightscout)…_<br>
 * Falls noch nicht eingerichtet, dann downloade Nightscout Uploader app vom Play Store und folge den Einstellungen auf [Nightscout](http://www.nightscout.info/wiki/welcome/basic-requirements).
-* Gib in den AndroidAPS Preferences deine Nightscout Website und dein API Secret ein.
-* Wähle den NSClient im ConfigBuilder (in AndroidAPS).
+* Gib in den AndroidAPS Einstellungen > NSClient deine Nightscout URL und dein Nightscout API-Key ein.
+* Wähle im CONFIG BUILDER > PROFIL > NS Profil (AndroidAPS).
 
 
 **Für Libre Nutzer:**<br>
 
 _Mit xdrip..._<br>
-* Falls noch nicht eingerichtet, dann downloade xdrip und folge der Anleitung auf [LimiTTEer](https://github.com/JoernL/LimiTTer),  [Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki), oder [BlueReader](https://unendlichkeit.net/wordpress/?p=680&lang=en)([Hardware](https://bluetoolz.de/wordpress/)).
-* In xdrip gehe zu Settings > Interapp Compatibility > Broadcast Data Locally und wähle ON.
-* In xdrip gehe zu Settings > Interapp Compatibility > Accept Treatments und wähle OFF.
-* Falls du mit AndroidAPS kalibrieren willst dann gehe in xdrip zu Settings > Interapp Compatibility > Accept Calibrations und wähle ON. Du solltest auch die Optionen in Settings > Less Common Settings > Advanced Calibration Settings kontrollieren.
-* Wähle xdrip im ConfigBuilder (in AndroidAPS).
+* Falls noch nicht eingerichtet, dann downloade xdrip und folge der Anleitung auf: 
+•[LimiTTEer](https://github.com/JoernL/LimiTTer)  
+•[Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki) 
+•[BlueReader](https://unendlichkeit.net/wordpress/?p=680&lang=en)([Hardware](https://bluetoolz.de/wordpress/)).
+* In xdrip gehe zu Einstellungen > Inter-App Einstellungen > Lokaler Broadcast und wähle AN.
+* In xdrip gehe zu Einstellungen > Inter-App Einstellungen > Behandlungen annehmen und wähle OFF.
+* Falls du mit AndroidAPS kalibrieren willst dann gehe in xdrip zu Einstellungen > Inter-App Einstellungen > Accept Calibrations und wähle AN. Du solltest auch die Optionen in Einstellungen > Erweiterte Einstellungen > Erweiterte Kalibrierung kontrollieren.
+* Wähle xdrip im CONFIG BUILDER (AndroidAPS).
 
 _Mit Glimp..._<br>
 * Falls noch nicht eingerichtet, dann downloade Glimp und folge der Anleitung auf [Nightscout](http://www.nightscout.info/wiki/welcome/nightscout-for-libre).
