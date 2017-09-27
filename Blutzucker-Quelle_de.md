@@ -16,9 +16,9 @@ _Mit OTG cable ('traditional' Nightscout)…_<br>
 
 _Mit xdrip..._<br>
 * Falls noch nicht eingerichtet, dann downloade xdrip und folge der Anleitung auf:<br> 
-• [LimiTTEer](https://github.com/JoernL/LimiTTer)<br>   
-• [Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki) 
-•[BlueReader](https://unendlichkeit.net/wordpress/?p=680&lang=en)([Hardware](https://bluetoolz.de/wordpress/)).
+• [LimiTTEer](https://github.com/JoernL/LimiTTer)  
+• [Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki) <br> 
+• [BlueReader](https://unendlichkeit.net/wordpress/?p=680&lang=en)([Hardware](https://bluetoolz.de/wordpress/)).
 * In xdrip gehe zu Einstellungen > Inter-App Einstellungen > Lokaler Broadcast und wähle AN.
 * In xdrip gehe zu Einstellungen > Inter-App Einstellungen > Behandlungen annehmen und wähle OFF.
 * Falls du mit AndroidAPS kalibrieren willst dann gehe in xdrip zu Einstellungen > Inter-App Einstellungen > Accept Calibrations und wähle AN. Du solltest auch die Optionen in Einstellungen > Erweiterte Einstellungen > Erweiterte Kalibrierung kontrollieren.
