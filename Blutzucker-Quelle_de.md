@@ -16,8 +16,8 @@ _Mit OTG cable ('traditional' Nightscout)…_<br>
 
 _Mit xdrip..._<br>
 * Falls noch nicht eingerichtet, dann downloade xdrip und folge der Anleitung auf: 
-•[LimiTTEer](https://github.com/JoernL/LimiTTer)  
-•[Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki) 
+• [LimiTTEer](https://github.com/JoernL/LimiTTer)  
+• [Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki) 
 •[BlueReader](https://unendlichkeit.net/wordpress/?p=680&lang=en)([Hardware](https://bluetoolz.de/wordpress/)).
 * In xdrip gehe zu Einstellungen > Inter-App Einstellungen > Lokaler Broadcast und wähle AN.
 * In xdrip gehe zu Einstellungen > Inter-App Einstellungen > Behandlungen annehmen und wähle OFF.
