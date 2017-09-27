@@ -22,7 +22,7 @@ _Mit xdrip..._<br>
 * In xdrip gehe zu Einstellungen > Inter-App Einstellungen > Lokaler Broadcast und wähle AN.
 * In xdrip gehe zu Einstellungen > Inter-App Einstellungen > Behandlungen annehmen und wähle OFF.
 * Falls du mit AndroidAPS kalibrieren willst dann gehe in xdrip zu Einstellungen > Inter-App Einstellungen > Accept Calibrations und wähle AN. Du solltest auch die Optionen in Einstellungen > Erweiterte Einstellungen > Erweiterte Kalibrierung kontrollieren.
-* Wähle xdrip im CONFIG BUILDER (AndroidAPS).
+* Wähle in AndroidAPS > CONFIG BUILDER > xdrip.
 
 _Mit Glimp..._<br>
 * Falls noch nicht eingerichtet, dann downloade Glimp und folge der Anleitung auf [Nightscout](http://www.nightscout.info/wiki/welcome/nightscout-for-libre).
