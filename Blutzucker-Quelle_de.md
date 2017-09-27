@@ -15,7 +15,7 @@ _Mit OTG cable ('traditional' Nightscout)…_<br>
 **Für FreeStyle Libre Nutzer:**<br>
 
 _Mit xdrip..._<br>
-* Falls noch nicht eingerichtet, dann downloade xdrip und folge der Anleitung auf: 
+* Falls noch nicht eingerichtet, dann downloade xdrip und folge der Anleitung auf:<br> 
 • [LimiTTEer](https://github.com/JoernL/LimiTTer)  
 • [Libre Alarm](https://github.com/pimpimmi/LibreAlarm/wiki) 
 •[BlueReader](https://unendlichkeit.net/wordpress/?p=680&lang=en)([Hardware](https://bluetoolz.de/wordpress/)).
