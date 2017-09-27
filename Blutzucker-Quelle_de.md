@@ -26,7 +26,7 @@ _Mit xdrip..._<br>
 
 _Mit Glimp..._<br>
 * Falls noch nicht eingerichtet, dann downloade Glimp und folge der Anleitung auf [Nightscout](http://www.nightscout.info/wiki/welcome/nightscout-for-libre).
-* Wähle Glimp im ConfigBuilder (in AndroidAPS).
+* Wähle in AndroidAPS > CONFIG BUILDER > Glimp.
 
 **Für Benutzer von MM640g oder MM630g:**<br>
 * Falls noch nicht eingerichtet, dann downloade [600SeriesAndroidUploaer](http://pazaan.github.io/600SeriesAndroidUploader/) und folge der Anleitung auf [nightscout](http://www.nightscout.info/wiki/welcome/nightscout-and-medtronic-640g).
