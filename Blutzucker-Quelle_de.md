@@ -4,7 +4,7 @@ _Mit xdrip…_<br>
 * In xdrip gehe zu Settings > Interapp Compatibility > Broadcast Data Locally und wähle ON.
 * In xdrip gehe zu Settings > Interapp Compatibility > Accept Treatments und wähle OFF.
 * Falls du mit AndroidAPS kalibrieren willst dann gehe in xdrip zu Settings > Interapp Compatibility > Accept Calibrations und wähle ON. Du solltest auch die Optionen in Settings > Less Common Settings > Advanced Calibration Settings kontrollieren.
-* Wähle xdrip im ConfigBuilder (in AndroidAPS).
+* Wähle in AndroidAPS > CONFIG BUILDER > xdrip.
 
 _Mit OTG cable ('traditional' Nightscout)…_<br>
 * Falls noch nicht eingerichtet, dann downloade Nightscout Uploader app vom Play Store und folge den Einstellungen auf [Nightscout](http://www.nightscout.info/wiki/welcome/basic-requirements).
