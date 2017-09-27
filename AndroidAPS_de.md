@@ -1,4 +1,4 @@
-* Kopple zuerst deine Pumpe mit der Bluetoothapp deines Handys und gib das Passwort ein (hier sollte es 0000 sein).
+* Kopple zuerst deine Pumpe mit der BluetootApp deines Handys und gib das Passwort ein (hier sollte es 0000 sein).
 * In AndroidAPS, gehe zu CONFIG BUILDER, drücke und aktiviere DanaR in Pump field.
 * Rufe das Menü auf indem du die drei Punkte oben rechts drückst. Wähle Preferences.
 * Drücke auf DanaR Bluetooth device und gib deine DanaR Seriennummer ein, diese befindet sich auf der Seite der Pumpe.
