@@ -18,6 +18,7 @@ Configuration:
 * [[Watchfaces]]
 
 Usage:
+* [[Objectives]]
 * [[Open APS features]]
 * [[Circadian Percentage Profile]]
 * [[Working with profiles in 1.5+|Working with profiles in 1.5]]
