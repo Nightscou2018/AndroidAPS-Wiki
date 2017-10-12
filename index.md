@@ -1,2 +1,2 @@
 ### Das Wiki für AndroidAPS
-Hilfe bei der Installation
+* Hilfe bei der Installation
