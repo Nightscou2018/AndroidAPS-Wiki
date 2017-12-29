@@ -1,4 +1,4 @@
-* Downloade-de-branch das [AndroidAPS repository](https://github.com/MilosKozak/AndroidAPS) und extrahiere den Ordner.
+* Branch-de-Downloade das [AndroidAPS repository](https://github.com/MilosKozak/AndroidAPS) und extrahiere den Ordner.
 
 * Öffne Android Studio und wähle 'Open an existing Android Studio project', dazu wähle den Speicherort des Repository's.
 
